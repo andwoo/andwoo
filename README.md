@@ -21,6 +21,7 @@ Welcome to my profile! I'm Andrew and I've been working in the software developm
 [<img align="left" alt="Switch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" style="margin-right:0px"/>](#)
 
 </br>
+</br>
 
 <!-- Tools -->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="margin-right:0px"/>](#)
