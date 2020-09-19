@@ -34,7 +34,6 @@ Welcome to my profile! I'm Andrew and I've been working in the software developm
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" style="margin-right:0px"/>](#)
 
 </br>
-</br>
 
 ### My favourite repositories ✨
 When I start new projects or experiment with something, I dread the boiler plate set up. I decided to spend some time creating my own set of template starter projects to allow myself to hit the ground running whenever an idea comes to mind. You might wonder why I'm not using one of the many starter projects out there but my reasoning is I want to understand what goes into creating one as well as the process of maintaining it. Creating these templates allowed me to better understand what is involved in setting up a bundler and keeping the projects as minimalist as possible to not bloat their dependencies. Who knew my favourite repositories would end up being template starter projects! 
