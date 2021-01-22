@@ -49,10 +49,9 @@ In relation to the previous section, I've decided to extend my `react` based sta
 - [Grid Framework](https://github.com/andwoo/scss-grid)
 - [Grid Framework Test Project](https://github.com/andwoo/scss-grid-testproject)
 
-### Goals for 2020 🥅
-This year my primary goal is to do a general code clean up of my main projects. Over the year I've learned new things and I realized some areas of my projects could be much better. At a high level I want to refactor my `redux` usages across my projects to reduce the amount of re-renders in my `react` based projects.
-
-My secondary goal would be to better understand and start using the new Hooks feature of `react` and write better functional components!
+### Goals for 2021 🥅
+- Improve CSS and SCSS skills.
+- Update my website template projects to use the latest stable libraries.
 
 ---
 ☕️
